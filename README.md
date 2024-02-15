@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=8ecae6&height=300&section=header&text=SangHoon🇰🇷&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=8ecae6&height=300&section=header&text=SangHoon🇰🇷&fontSize=90&animation=twinkling)
+
 <div align="center">
 
 
