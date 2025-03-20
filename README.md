@@ -29,15 +29,6 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 <br>  
 
-<br>🛠 Tools 🛠<br><p>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-1E2A4E?style=flat&logo=intelliJ IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=MacOS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xcode-E61845?style=flat&logo=Xcode&logoColor=white"/>
-<p>
-<img src="https://img.shields.io/badge/Eclipse IDE-7B68EE?style=flat&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vmware-607078?style=flat&logo=vmware&logoColor=white"/>             
-<br>
 
 #### 🧑🏻‍💻 SNS & BLOG 🧑🏻‍💻
 <a href="https://instagram.com/s_hoonee">
